@@ -1,3 +1,6 @@
+### PHP 7 With Nginx
+
+```sh
 sudo apt-get upadte
 sudo apt-get upgrade
 
@@ -39,7 +42,4 @@ sudo service php7.0-fpm restart
 ps aux | grep php
 
 [Check Nginx Configuration] sudo nginx -t -c /etc/nginx/nginx.conf
-
-
-
-
+```
